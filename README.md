@@ -9,3 +9,6 @@ The file contents two jupyter notebooks,
 2. The job_analysis code is to conduct our rank based algorithm and to perform real job post analysis.
 
 The job posting data can be downloaded from: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?resource=download
+
+
+I'll find a time to further update the code...
